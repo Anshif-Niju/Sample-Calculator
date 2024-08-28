@@ -1,0 +1,29 @@
+.main-body{
+
+
+
+
+}
+
+.calc{
+    width:400px;
+    height: 600px;
+    background: gray;
+    margin-left: 400px;
+    margin-top: 50px;
+
+
+
+}
+
+.inner-body{
+    margin-top: 20px;
+    margin-left: 10px;
+    width: 380px;
+    height: 580px;
+    background: black;
+
+
+
+
+}
